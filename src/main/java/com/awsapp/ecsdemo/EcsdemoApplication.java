@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class EcsdemoApplication {
 
 	public static void main(String[] args) {
-		System.out.print("Main applictation");
+		System.out.print("Main applictation changed");
 		SpringApplication.run(EcsdemoApplication.class, args);
 		
 	}
